@@ -2,9 +2,9 @@
 DappSociety Improvement Proposals (DIPs) describe standards for the DappSociety community. They serve as part of a hands-on experiment in decentralized governance.
 
 ## Contributing
-First review [DIP-0001](#). Then clone [the repository](https://github.com/DappSociety/DIPs), add your DIP to it, and submit a pull request. If you are not comfortable cloning and submitting a pull request, you may [create an Issue on the repository](https://github.com/DappSociety/DIPs/issues) or simply propose your ideas in the DappSociety Slack.
+First review [DIP-0001](https://github.com/DappSociety/DIPs/blob/master/proposals/dip-0001.md). Then clone [the repository](https://github.com/DappSociety/DIPs), add your DIP to it, and submit a pull request. If you are not comfortable cloning and submitting a pull request, you may [create an Issue on the repository](https://github.com/DappSociety/DIPs/issues) or simply propose your ideas in the DappSociety Slack.
 
-Please use [this template](#) when creating your DIP.
+Please use [this template](https://github.com/DappSociety/DIPs/blob/master/dip-xxxx.md) when creating your DIP.
 
 ## DIP Status Terms
 * __Draft:__ Open for consideration
